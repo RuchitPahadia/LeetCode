@@ -1,7 +1,7 @@
 import java.util.*;
 class Solution {
     public String removeOuterParentheses(String s) {
-        Deque<Integer> stk = new ArrayDeque<>();
+        Deque<String> stk = new ArrayDeque<>();
         String[] str = s.split("");
         int ctr = 0;
         StringBuilder res = new StringBuilder();
