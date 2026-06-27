@@ -1,32 +1,22 @@
-import java.util.*;
 class Solution {
     public String removeOuterParentheses(String s) {
-        Deque<String> stk = new ArrayDeque<>();
-        String[] str = s.split("");
-        int ctr = 0;
         StringBuilder res = new StringBuilder();
-        for(String i : str){
-            if(i.equals("(")){
-                if(ctr==0){
-                    ctr++;
-                    continue;
+        int depth = 0;
+
+        for (char c : s.toCharArray()) {
+            if (c == '(') {
+                if (depth > 0) {
+                    res.append(c);
                 }
-                else{
-                    ctr++;
-                    res.append("(");
-                }
-            }
-            if(i.equals(")")){
-                if(ctr==1){
-                    ctr--;
-                    continue;
-                }
-                else{
-                    ctr--;
-                    res.append(")");
+                depth++;
+            } else {
+                depth--;
+                if (depth > 0) {
+                    res.append(c);
                 }
             }
         }
+
         return res.toString();
     }
 }
