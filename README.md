@@ -74,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/RuchitPahadia/LeetCode/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [2239-find-closest-number-to-zero](https://github.com/RuchitPahadia/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 <!---LeetCode Topics End-->
