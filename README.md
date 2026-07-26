@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1470-shuffle-the-array](https://github.com/RuchitPahadia/LeetCode/tree/master/1470-shuffle-the-array) |
 | [2239-find-closest-number-to-zero](https://github.com/RuchitPahadia/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 ## Sorting
 |  |
