@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/RuchitPahadia/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/RuchitPahadia/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
@@ -103,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/RuchitPahadia/LeetCode/tree/master/0191-number-of-1-bits) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/RuchitPahadia/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/RuchitPahadia/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
