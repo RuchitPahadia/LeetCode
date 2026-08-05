@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RuchitPahadia/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/RuchitPahadia/LeetCode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/RuchitPahadia/LeetCode/tree/master/0125-valid-palindrome) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RuchitPahadia/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RuchitPahadia/LeetCode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/RuchitPahadia/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RuchitPahadia/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/RuchitPahadia/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RuchitPahadia/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RuchitPahadia/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RuchitPahadia/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
