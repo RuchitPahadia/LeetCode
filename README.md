@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/RuchitPahadia/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/RuchitPahadia/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/RuchitPahadia/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/RuchitPahadia/LeetCode/tree/master/0136-single-number) |
 | [0496-next-greater-element-i](https://github.com/RuchitPahadia/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1470-shuffle-the-array](https://github.com/RuchitPahadia/LeetCode/tree/master/1470-shuffle-the-array) |
 | [2239-find-closest-number-to-zero](https://github.com/RuchitPahadia/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [3731-find-missing-elements](https://github.com/RuchitPahadia/LeetCode/tree/master/3731-find-missing-elements) |
@@ -128,4 +130,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/RuchitPahadia/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
