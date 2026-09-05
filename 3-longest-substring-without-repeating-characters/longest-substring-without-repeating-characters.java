@@ -6,14 +6,13 @@ class Solution {
         int[] hash = new int[256];
         Arrays.fill(hash, -1);
 
-        while (r < n) {
-            //if the left ptr is already i the substr
+        for(r=0;r<s.length();r++){
+            //if the left ptr is already i the substr moove it right 
             if (hash[s.charAt(r)] != -1) {
                 l = Math.max(hash[s.charAt(r)] + 1, l);
             }
             res = Math.max(res, r - l + 1);
             hash[s.charAt(r)] = r;
-            r++;
         }
         return res;
     }
