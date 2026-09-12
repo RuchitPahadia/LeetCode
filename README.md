@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/RuchitPahadia/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RuchitPahadia/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/RuchitPahadia/LeetCode/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/RuchitPahadia/LeetCode/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RuchitPahadia/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/RuchitPahadia/LeetCode/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/RuchitPahadia/LeetCode/tree/master/0136-single-number) |
 | [0496-next-greater-element-i](https://github.com/RuchitPahadia/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/RuchitPahadia/LeetCode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/RuchitPahadia/LeetCode/tree/master/0402-remove-k-digits) |
 | [0860-lemonade-change](https://github.com/RuchitPahadia/LeetCode/tree/master/0860-lemonade-change) |
 ## Binary Search
