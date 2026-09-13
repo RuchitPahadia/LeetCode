@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RuchitPahadia/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/RuchitPahadia/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/RuchitPahadia/LeetCode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/RuchitPahadia/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RuchitPahadia/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/RuchitPahadia/LeetCode/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/RuchitPahadia/LeetCode/tree/master/0136-single-number) |
+| [0455-assign-cookies](https://github.com/RuchitPahadia/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/RuchitPahadia/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0860-lemonade-change](https://github.com/RuchitPahadia/LeetCode/tree/master/0860-lemonade-change) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/RuchitPahadia/LeetCode/tree/master/0455-assign-cookies) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RuchitPahadia/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/RuchitPahadia/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/RuchitPahadia/LeetCode/tree/master/3731-find-missing-elements) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/RuchitPahadia/LeetCode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/RuchitPahadia/LeetCode/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/RuchitPahadia/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/RuchitPahadia/LeetCode/tree/master/0860-lemonade-change) |
 ## Binary Search
 |  |
@@ -173,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/RuchitPahadia/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/RuchitPahadia/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
