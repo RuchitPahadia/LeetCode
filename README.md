@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/RuchitPahadia/LeetCode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/RuchitPahadia/LeetCode/tree/master/0125-valid-palindrome) |
 | [0402-remove-k-digits](https://github.com/RuchitPahadia/LeetCode/tree/master/0402-remove-k-digits) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RuchitPahadia/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RuchitPahadia/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Counting
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/RuchitPahadia/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RuchitPahadia/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RuchitPahadia/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RuchitPahadia/LeetCode/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RuchitPahadia/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
