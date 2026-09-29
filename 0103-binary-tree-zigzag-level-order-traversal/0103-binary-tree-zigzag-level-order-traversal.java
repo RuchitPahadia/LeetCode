@@ -26,7 +26,7 @@ class Solution {
         if (root == null) {
             return res;
         }
-        
+
         while (!stk.isEmpty()) {
             int size = stk.size();
             List<Integer> ans = new ArrayList<>();
@@ -35,6 +35,9 @@ class Solution {
                 TreeNode node = stk.pop();
                 ans.add(node.val);
                 
+                //while we push we tend to push in the reverse order 
+                //to counter this we use a second stack next
+                //the contents of the second stack and stk are switched at the end
                 if(flag == 0){
                     if(node.left!=null){
                         next.push(node.left);
