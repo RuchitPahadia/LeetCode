@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RuchitPahadia/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/RuchitPahadia/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RuchitPahadia/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/RuchitPahadia/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RuchitPahadia/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/RuchitPahadia/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RuchitPahadia/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/RuchitPahadia/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/RuchitPahadia/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/RuchitPahadia/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Database
 |  |
 | ------- |
