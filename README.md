@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RuchitPahadia/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RuchitPahadia/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/RuchitPahadia/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/RuchitPahadia/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RuchitPahadia/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RuchitPahadia/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/RuchitPahadia/LeetCode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/RuchitPahadia/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/RuchitPahadia/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/RuchitPahadia/LeetCode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/RuchitPahadia/LeetCode/tree/master/0402-remove-k-digits) |
 | [0856-score-of-parentheses](https://github.com/RuchitPahadia/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RuchitPahadia/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/RuchitPahadia/LeetCode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/RuchitPahadia/LeetCode/tree/master/0455-assign-cookies) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RuchitPahadia/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RuchitPahadia/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
