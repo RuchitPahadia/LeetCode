@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RuchitPahadia/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/RuchitPahadia/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RuchitPahadia/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/RuchitPahadia/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RuchitPahadia/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RuchitPahadia/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0229-majority-element-ii) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RuchitPahadia/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Linked List
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/RuchitPahadia/LeetCode/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/RuchitPahadia/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RuchitPahadia/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/RuchitPahadia/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/RuchitPahadia/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/RuchitPahadia/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RuchitPahadia/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RuchitPahadia/LeetCode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/RuchitPahadia/LeetCode/tree/master/0455-assign-cookies) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RuchitPahadia/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -296,4 +300,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RuchitPahadia/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
