@@ -1,54 +1,20 @@
-import java.util.*;
-
 class Solution {
-    public int[] twoSum(int[] num, int target) {
+    public int[] twoSum(int[] nums, int target) {
+        HashMap<Integer, Integer> map = new HashMap<>();
+        //store val,index
 
-        int[] nums = num.clone();
-        Arrays.sort(nums);
+        for (int i = 0; i < nums.length; i++) {
 
-        int left = 0;
-        int right = nums.length - 1;
+            int comp = target - nums[i];
+            //find the compliment of the element
 
-        int e1 = 0, e2 = 0;
-
-        while(left < right){
-
-            int sum = nums[left] + nums[right];
-
-            if(sum == target){
-                e1 = nums[left];
-                e2 = nums[right];
-                break;
+            if (map.containsKey(comp)) {//if compliment in map then sol found
+                int[] res = { map.get(comp), i };
+                return res;
             }
-            else if(sum > target){
-                right--;
-            }
-            else{
-                left++;
-            }
+            //add the element if not found
+            map.put(nums[i], i);
         }
-
-        int[] res = new int[2];
-
-        if(e1 == e2){
-            int k = 0;
-            for(int i=0;i<num.length;i++){
-                if(num[i] == e1){
-                    res[k++] = i;
-                    if(k == 2) break;
-                }
-            }
-        }
-        else{
-            for(int i=0;i<num.length;i++){
-                if(num[i] == e1)
-                    res[0] = i;
-
-                else if(num[i] == e2)
-                    res[1] = i;
-            }
-        }
-
-        return res;
+        return new int[] {};
     }
 }
