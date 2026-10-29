@@ -2,23 +2,21 @@ class Solution {
     public int romanToInt(String s) {
         int res = 0;
 
-        for (int i = 0; i < s.length() - 1; i++) {
-            int curr = valof(s.charAt(i));
-            int next = valof(s.charAt(i + 1));
-
-            if (curr < next) {
-                res -= curr;
-            } else {
-                res += curr;
+        for(int i = 0;i<s.length()-1;i++){
+            int curr = val(s.charAt(i));
+            int next = val(s.charAt(i+1));
+            if(next>curr){
+                res = res - curr;
+            }
+            else{
+                res = res + curr;
             }
         }
-
-        res += valof(s.charAt(s.length() - 1));
-
+        res = res + val(s.charAt(s.length()-1));
         return res;
     }
 
-    public int valof(char c) {
+    public int val(char c) {
         return switch (c) {
             case 'M' -> 1000;
             case 'D' -> 500;
