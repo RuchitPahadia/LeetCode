@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/RuchitPahadia/LeetCode/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/RuchitPahadia/LeetCode/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/RuchitPahadia/LeetCode/tree/master/1148-article-views-i) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/RuchitPahadia/LeetCode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/RuchitPahadia/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/RuchitPahadia/LeetCode/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/RuchitPahadia/LeetCode/tree/master/1517-find-users-with-valid-e-mails) |
