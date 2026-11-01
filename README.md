@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/RuchitPahadia/LeetCode/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/RuchitPahadia/LeetCode/tree/master/1148-article-views-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/RuchitPahadia/LeetCode/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1280-students-and-examinations](https://github.com/RuchitPahadia/LeetCode/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/RuchitPahadia/LeetCode/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/RuchitPahadia/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/RuchitPahadia/LeetCode/tree/master/1484-group-sold-products-by-the-date) |
