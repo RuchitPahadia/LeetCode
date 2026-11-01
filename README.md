@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RuchitPahadia/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/RuchitPahadia/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/RuchitPahadia/LeetCode/tree/master/0231-power-of-two) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/RuchitPahadia/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/RuchitPahadia/LeetCode/tree/master/0509-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/RuchitPahadia/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1486-xor-operation-in-an-array](https://github.com/RuchitPahadia/LeetCode/tree/master/1486-xor-operation-in-an-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/RuchitPahadia/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RuchitPahadia/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0229-majority-element-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/RuchitPahadia/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/RuchitPahadia/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/RuchitPahadia/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/RuchitPahadia/LeetCode/tree/master/0496-next-greater-element-i) |
