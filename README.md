@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RuchitPahadia/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RuchitPahadia/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/RuchitPahadia/LeetCode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RuchitPahadia/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RuchitPahadia/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RuchitPahadia/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/RuchitPahadia/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RuchitPahadia/LeetCode/tree/master/0056-merge-intervals) |
