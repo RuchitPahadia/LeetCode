@@ -1,25 +1,20 @@
 class Solution {
     public int countPrimes(int n) {
-        List<Integer> hash = new ArrayList<>();
-        int res = 0;
+        boolean[] prime = new boolean[n];
+        Arrays.fill(prime, true);
+
+        int count = 0;
+
         for(int i = 2; i < n; i++) {
-            boolean prime = true;
-            
-            for(int j = 0; j < hash.size(); j++) {
-                if(hash.get(j) > Math.sqrt(i)) break;
+            if(prime[i]) {
+                count++;
 
-                if(i % hash.get(j) == 0) {
-                    prime = false;
-                    break;
+                for(int j = i * 2; j < n; j += i) {
+                    prime[j] = false;
                 }
-            }
-
-            if(prime) {
-                res++;
-                hash.add(i);
             }
         }
 
-        return res;
+        return count;
     }
 }
