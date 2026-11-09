@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/RuchitPahadia/LeetCode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/RuchitPahadia/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/RuchitPahadia/LeetCode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/RuchitPahadia/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/RuchitPahadia/LeetCode/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RuchitPahadia/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/RuchitPahadia/LeetCode/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RuchitPahadia/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/RuchitPahadia/LeetCode/tree/master/0056-merge-intervals) |
 | [0136-single-number](https://github.com/RuchitPahadia/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RuchitPahadia/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/RuchitPahadia/LeetCode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0229-majority-element-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RuchitPahadia/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/RuchitPahadia/LeetCode/tree/master/0455-assign-cookies) |
@@ -353,4 +356,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/RuchitPahadia/LeetCode/tree/master/1882-process-tasks-using-servers) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RuchitPahadia/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RuchitPahadia/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RuchitPahadia/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RuchitPahadia/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
