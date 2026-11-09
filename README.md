@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RuchitPahadia/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1266-minimum-time-visiting-all-points](https://github.com/RuchitPahadia/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1470-shuffle-the-array](https://github.com/RuchitPahadia/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/RuchitPahadia/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/RuchitPahadia/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/RuchitPahadia/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RuchitPahadia/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/RuchitPahadia/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/RuchitPahadia/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Binary Lifting
 |  |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/RuchitPahadia/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/RuchitPahadia/LeetCode/tree/master/1882-process-tasks-using-servers) |
 ## Enumeration
 |  |
@@ -372,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RuchitPahadia/LeetCode/tree/master/0204-count-primes) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/RuchitPahadia/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
