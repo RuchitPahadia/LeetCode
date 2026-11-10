@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/RuchitPahadia/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/RuchitPahadia/LeetCode/tree/master/0509-fibonacci-number) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/RuchitPahadia/LeetCode/tree/master/2645-minimum-additions-to-make-valid-string) |
+| [3693-climbing-stairs-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/RuchitPahadia/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RuchitPahadia/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RuchitPahadia/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3693-climbing-stairs-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/RuchitPahadia/LeetCode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RuchitPahadia/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
