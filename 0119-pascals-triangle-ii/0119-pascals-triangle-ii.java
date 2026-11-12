@@ -1,28 +1,16 @@
 
+import java.util.*;
+
 class Solution {
     public List<Integer> getRow(int rowIndex) {
-        List<List<Integer>> res = new ArrayList<>();
+        List<Integer> res = new ArrayList<>();
+        long val = 1;
 
-        // First row
-        List<Integer> ans = List.of(1);
-        res.add(ans);
-
-        for (int i = 1; i <= rowIndex; i++) {
-            List<Integer> curr = new ArrayList<>();
-
-            // Row boundaries
-            curr.add(1);
-
-            // Middle elements
-            for (int j = 1; j < i; j++) {
-                curr.add(res.get(i - 1).get(j - 1) + res.get(i - 1).get(j));
-            }
-
-            // Last element
-            curr.add(1);
-            res.add(curr);
+        for (int i = 0; i <= rowIndex; i++) {
+            res.add((int) val);
+            val = val * (rowIndex - i) / (i + 1);
         }
 
-        return res.get(rowIndex);
+        return res;
     }
 }
