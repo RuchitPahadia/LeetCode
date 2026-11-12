@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/RuchitPahadia/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/RuchitPahadia/LeetCode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/RuchitPahadia/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RuchitPahadia/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/RuchitPahadia/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/RuchitPahadia/LeetCode/tree/master/0204-count-primes) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/RuchitPahadia/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RuchitPahadia/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RuchitPahadia/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/RuchitPahadia/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RuchitPahadia/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/RuchitPahadia/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RuchitPahadia/LeetCode/tree/master/0056-merge-intervals) |
@@ -391,5 +393,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RuchitPahadia/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RuchitPahadia/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
