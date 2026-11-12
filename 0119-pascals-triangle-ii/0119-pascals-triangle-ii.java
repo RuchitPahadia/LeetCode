@@ -1,6 +1,3 @@
-
-import java.util.*;
-
 class Solution {
     public List<Integer> getRow(int rowIndex) {
         List<Integer> res = new ArrayList<>();
