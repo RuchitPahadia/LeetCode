@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RuchitPahadia/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/RuchitPahadia/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/RuchitPahadia/LeetCode/tree/master/2645-minimum-additions-to-make-valid-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RuchitPahadia/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Counting
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/RuchitPahadia/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/RuchitPahadia/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RuchitPahadia/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Recursion
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/RuchitPahadia/LeetCode/tree/master/0509-fibonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RuchitPahadia/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/RuchitPahadia/LeetCode/tree/master/2645-minimum-additions-to-make-valid-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RuchitPahadia/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3693-climbing-stairs-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
 |  |
