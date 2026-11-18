@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/RuchitPahadia/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/RuchitPahadia/LeetCode/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RuchitPahadia/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/RuchitPahadia/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Counting
 |  |
 | ------- |
