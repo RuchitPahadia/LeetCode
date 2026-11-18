@@ -6,7 +6,7 @@ class Solution {
                 nums[i][j] = nums[j][i];
                 nums[j][i] = temp;                
             }
-        }
+        }//swap rows and columns
         for(int i=0;i<nums.length;i++){
             for(int j=0;j<nums[0].length/2;j++){
 
@@ -14,6 +14,6 @@ class Solution {
                 nums[i][j] = nums[i][nums.length-1-j];
                 nums[i][nums.length-1-j] = temp;
             }
-        }
+        }//reverse each row
     }
 }
