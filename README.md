@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RuchitPahadia/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RuchitPahadia/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RuchitPahadia/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/RuchitPahadia/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/RuchitPahadia/LeetCode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/RuchitPahadia/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RuchitPahadia/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/RuchitPahadia/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RuchitPahadia/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/RuchitPahadia/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/RuchitPahadia/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/RuchitPahadia/LeetCode/tree/master/0136-single-number) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/RuchitPahadia/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/RuchitPahadia/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/RuchitPahadia/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/RuchitPahadia/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RuchitPahadia/LeetCode/tree/master/0242-valid-anagram) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/RuchitPahadia/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/RuchitPahadia/LeetCode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/RuchitPahadia/LeetCode/tree/master/0455-assign-cookies) |
 ## Tree
 |  |
@@ -417,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/RuchitPahadia/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RuchitPahadia/LeetCode/tree/master/0054-spiral-matrix) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RuchitPahadia/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
