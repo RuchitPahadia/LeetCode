@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/RuchitPahadia/LeetCode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/RuchitPahadia/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/RuchitPahadia/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/RuchitPahadia/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RuchitPahadia/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Recursion
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/RuchitPahadia/LeetCode/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/RuchitPahadia/LeetCode/tree/master/0860-lemonade-change) |
+| [0977-squares-of-a-sorted-array](https://github.com/RuchitPahadia/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/RuchitPahadia/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RuchitPahadia/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1266-minimum-time-visiting-all-points](https://github.com/RuchitPahadia/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RuchitPahadia/LeetCode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/RuchitPahadia/LeetCode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/RuchitPahadia/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RuchitPahadia/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/RuchitPahadia/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/RuchitPahadia/LeetCode/tree/master/2747-count-zero-request-servers) |
