@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/RuchitPahadia/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/RuchitPahadia/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/RuchitPahadia/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/RuchitPahadia/LeetCode/tree/master/0509-fibonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RuchitPahadia/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/RuchitPahadia/LeetCode/tree/master/2645-minimum-additions-to-make-valid-string) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/RuchitPahadia/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/RuchitPahadia/LeetCode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/RuchitPahadia/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/RuchitPahadia/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/RuchitPahadia/LeetCode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0229-majority-element-ii) |
