@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/RuchitPahadia/LeetCode/tree/master/0509-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/RuchitPahadia/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RuchitPahadia/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/RuchitPahadia/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RuchitPahadia/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1922-count-good-numbers](https://github.com/RuchitPahadia/LeetCode/tree/master/1922-count-good-numbers) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/RuchitPahadia/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RuchitPahadia/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1266-minimum-time-visiting-all-points](https://github.com/RuchitPahadia/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RuchitPahadia/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1470-shuffle-the-array](https://github.com/RuchitPahadia/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RuchitPahadia/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/RuchitPahadia/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RuchitPahadia/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RuchitPahadia/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RuchitPahadia/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/RuchitPahadia/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RuchitPahadia/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RuchitPahadia/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/RuchitPahadia/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Quicksort
@@ -443,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RuchitPahadia/LeetCode/tree/master/0075-sort-colors) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/RuchitPahadia/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
