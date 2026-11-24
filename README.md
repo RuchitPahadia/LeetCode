@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/RuchitPahadia/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RuchitPahadia/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1922-count-good-numbers](https://github.com/RuchitPahadia/LeetCode/tree/master/1922-count-good-numbers) |
+| [2469-convert-the-temperature](https://github.com/RuchitPahadia/LeetCode/tree/master/2469-convert-the-temperature) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/RuchitPahadia/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/RuchitPahadia/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RuchitPahadia/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
