@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RuchitPahadia/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/RuchitPahadia/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/RuchitPahadia/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RuchitPahadia/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2747-count-zero-request-servers](https://github.com/RuchitPahadia/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RuchitPahadia/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/RuchitPahadia/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/RuchitPahadia/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RuchitPahadia/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/RuchitPahadia/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/RuchitPahadia/LeetCode/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/RuchitPahadia/LeetCode/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/RuchitPahadia/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/RuchitPahadia/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RuchitPahadia/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/RuchitPahadia/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RuchitPahadia/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
